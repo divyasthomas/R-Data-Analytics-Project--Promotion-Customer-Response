@@ -24,4 +24,6 @@ DATA DICTIONARY: Variables in the Data Set QK.csv:
 * Special: Number of specialty meals ordered last 6 months
 * TotPurch: Amount purchased last 6 months in dollars
 * Weeks3Meals: Number of weeks that a customer that signed up for the promotional offer stayed with the three-meal-plan, after the promotion was over.
+
+
 (*) Canada has 850,000 postal codes, which are combined into 54000 Dissemination Areas. A Dissemination Area typically has between 400 and 700 households.
